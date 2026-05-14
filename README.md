@@ -49,6 +49,9 @@ Run the development server:
 pnpm dev
 ```
 
+## 📸 Preview
+
+![Typespace Preview](./public/preview.webp)
 
 ## 🌍 Deployment
 
